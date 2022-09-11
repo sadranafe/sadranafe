@@ -11,7 +11,7 @@
     I wote all my projects with Vanila JS. 
 1) [To Do App](https://github.com/sadranafe/To-Do-app)
 2) [Digital Clock](https://github.com/sadranafe/Digital-Clock/tree/main/)
-3) [Full page](https://github.com/sadranafe/full-page)
+3) [Full page (HTML CSS JS)](https://github.com/sadranafe/full-page)
 4) Stop Wacth 
 5) More coming Soon ....
 
