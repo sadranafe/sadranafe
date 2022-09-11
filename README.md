@@ -1,5 +1,5 @@
 # :mag_right: about Me : 
-   :technologist: My name is Sadra.
+   :technologist: My name is Sadra. <br/>
    :electron: I'm studying React js in advanced level.
    :heart: I love programming very much
     
