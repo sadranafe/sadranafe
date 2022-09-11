@@ -6,7 +6,7 @@ Here's my Email Address : sadranafe7@gmail.com
 
 this is my instagram profile : https://www.instagram.com/sadra_nafe/?r=nametag
 
-@this are my project list : 
+# this are my project list : 
     I wote all my projects with Vanila JS. 
 1) To Do App
 2) Digital Clock
