@@ -1,11 +1,11 @@
-# about Me : 
-    :technologist: My name is Sadra.
-    :electron: I'm studying React js in advanced level.
-    :heart: I love programming very much
+# :mag_right: about Me : 
+   :technologist: My name is Sadra.
+   :electron: I'm studying React js in advanced level.
+   :heart: I love programming very much
     
 # :globe_with_meridians: socials
-    you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag)
-    :email: Here's my Email Address: sadranafe7@gmail.com
+   you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag)
+   :email: Here's my Email Address: sadranafe7@gmail.com
 
 # List of my Projects : 
     I wote all my projects with Vanila JS. 
