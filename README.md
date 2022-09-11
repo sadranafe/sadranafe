@@ -7,7 +7,7 @@
    you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag)
    :email: Here's my Email Address: sadranafe7@gmail.com
 
-# List of my Projects : 
+# 	:bulb: List of my Projects : 
     I wote all my projects with Vanila JS. 
 1) [To Do App](https://github.com/sadranafe/To-Do-app)
 2) Digital Clock
