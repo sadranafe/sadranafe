@@ -4,7 +4,7 @@
    :heart: I love programming very much
     
 # :globe_with_meridians: socials
-   you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag)
+   you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag) <br/>
    :email: Here's my Email Address: sadranafe7@gmail.com
 
 # 	:bulb: List of my Projects : 
