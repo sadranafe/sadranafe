@@ -1,6 +1,6 @@
 # :mag_right: about Me : 
    :technologist: My name is Sadra. <br/>
-   :electron: I'm studying React js in advanced level.
+   :electron: I'm studying React js in advanced level. <br/>
    :heart: I love programming very much
     
 # :globe_with_meridians: socials
