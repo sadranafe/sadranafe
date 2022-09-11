@@ -8,8 +8,10 @@ Hi, My name is Sadra.
 5) More coming Soon ....
 
 Here's my Email Address and my instagram page : 
-            sadranafe7@gmail.com
-            https://www.instagram.com/sadra_nafe/?r=nametag
+
+sadranafe7@gmail.com
+
+https://www.instagram.com/sadra_nafe/?r=nametag
 
 <!---
 sadranafe/sadranafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
