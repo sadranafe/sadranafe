@@ -13,9 +13,10 @@
 2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
 3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
 4) [Stop Wacth](https://github.com/sadranafe/projects/tree/main/stopWatch)
-5) More coming Soon ....
+5) [copy to clipboard]()
+6) More coming Soon ....
 
-
+you can [see the demo](https://flatuicolors.com/palette/defo) of project 5.
 <!---
 sadranafe/sadranafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
