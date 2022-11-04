@@ -8,7 +8,6 @@
    :email: Here's my Email Address: sadranafe7@gmail.com
 
 # 	:bulb: List of my Projects : 
-    I wote all my projects with Vanila JS. 
 1) [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
 2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
 3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
