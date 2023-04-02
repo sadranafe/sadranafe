@@ -16,7 +16,8 @@
 6) [Age Calculater](https://github.com/sadranafe/projects/tree/main/ageCalculator)
 7) More coming Soon ....
 
-# :blub: List of my projects with (React):
+
+# List of my projects with (React):
 1) [Responsive HmaburgerMenu]()
 <!---
 sadranafe/sadranafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
