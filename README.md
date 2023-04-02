@@ -10,7 +10,7 @@
 # 	:bulb: List of my Projects : 
 1) [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
 2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
-3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
+3) [Responsive Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
 4) [Stop Wacth](https://github.com/sadranafe/projects/tree/main/stopWatch)
 5) [copy to clipboard](https://github.com/sadranafe/projects/tree/main/clipboard) - you can [see the demo](https://flatuicolors.com/palette/defo).
 6) [Age Calculater](https://github.com/sadranafe/projects/tree/main/ageCalculator)
