@@ -1,7 +1,8 @@
 # :mag_right: about Me : 
    :technologist: My name is Sadra. <br/>
-   passionate developer with strong skills in C++ , JavaScript and React.Js. <br/>
-   i have a solid foundation in computer science and a keen interest in problem-solving. On my Github Page, you'll find a variety of   projects that demonstrate my expertise in these technologies. I'm always pushing myself to learn more and take on exciting new challenges in the world of programming!
+   💻 passionate developer with strong skills in C++ , JavaScript and React.Js. <br/>
+   i have a solid foundation in computer science and a keen interest in problem-solving. <br/>
+   On my Github Page, you'll find a variety of projects that demonstrate my expertise in these technologies. I'm always pushing myself to learn more and take on exciting new challenges in the world of programming!
     
 # :globe_with_meridians: socials
    you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag) <br/>
