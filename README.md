@@ -1,4 +1,5 @@
 # :mag_right: about Me : 
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    🧠👨‍💻 My name is Sadra. <br/>
    🔎 passionate developer with strong skills in 
 (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
