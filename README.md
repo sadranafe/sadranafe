@@ -1,5 +1,5 @@
 # :mag_right: about Me : 
-![test](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
    🧠👨‍💻 My name is Sadra. <br/>
    🔎 passionate developer with strong skills in C++ , JavaScript and React.Js. <br/>
    💡🦾 i have a solid foundation in computer science and a keen interest in problem-solving. <br/>
