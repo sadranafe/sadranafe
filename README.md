@@ -5,7 +5,7 @@
    On my Github Page, you'll find a variety of projects that demonstrate my expertise in these technologies. I'm always pushing myself to learn more and take on exciting new challenges in the world of programming!
     
 # :globe_with_meridians: socials
-   💻you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag) <br/>
+   💻you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/_sadra.nafe_/?r=nametag) <br/>
    :email: Here's my Email Address: sadranafe7@gmail.com
 
 # 	:bulb: List of my (HTML CSS JS) Projects: 
