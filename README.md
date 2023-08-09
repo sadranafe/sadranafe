@@ -8,7 +8,7 @@
    💻you can follow my instagram page by clicking on the link : [Instagram Page](https://www.instagram.com/sadra_nafe/?r=nametag) <br/>
    :email: Here's my Email Address: sadranafe7@gmail.com
 
-# 	:bulb: List of my Projects with (HTML CSS JS): 
+# 	:bulb: List of my (HTML CSS JS) Projects: 
 1) [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
 2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
 3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
@@ -18,7 +18,7 @@
 7) More coming Soon ....
 
 
-# ⚛️ List of my projects with (React):
+# ⚛️ List of my ReactJS projects:
 1) [Responsive HmaburgerMenu](https://github.com/sadranafe/React-Projects/tree/main/hamburger)
 2) [Expense Tracker](https://github.com/sadranafe/React-Projects)
 <!---
