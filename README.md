@@ -28,7 +28,7 @@
    ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) follow my dev.to page for the post i created : [dev.to](https://dev.to/sadranafe) <br/>
    ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) follow my medium page for more articles : [medium](https://medium.com/@sadranafe)
 
-# 	:bulb: List of my (HTML CSS JS) Projects: 
+# 	:bulb: List of my JS Projects: 
 1) [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
 2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
 3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
