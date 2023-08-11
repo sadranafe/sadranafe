@@ -40,7 +40,7 @@
 
 # ⚛️ List of my ReactJS projects:
 1) [Responsive HmaburgerMenu](https://github.com/sadranafe/React-Projects/tree/main/hamburger)
-2) [Expense Tracker](https://github.com/sadranafe/React-Projects)
+2) [Expense Tracker](https://github.com/sadranafe/expense-tracker)
 <!---
 sadranafe/sadranafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
