@@ -1,6 +1,10 @@
 # :mag_right: about Me : 
    🧠👨‍💻 Hello , I'm Sadra.<br/>
-   🔎 a <b>Front-End developer</b> who absolutely loves diving into tricky problems and turning fresh ideas into nice web apps.
+   🔎 a <b>Front-End developer</b> who absolutely loves diving into tricky problems and turning fresh ideas into nice web apps. <br/>
+   ( I'm currently focused on learning and working with **Next.js** and **SEO** )
+   <br/>
+
+## Skills :
 
 <a href='https://www.w3schools.com/html/' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=e34f26&color=e34f26'/></a>
 <a href='https://www.w3schools.com/css/' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/Css3-100000?style=for-the-badge&logo=CSS&logoColor=FFFFFF&labelColor=1572b6&color=1572b6'/></a>
@@ -22,14 +26,28 @@
    I enjoy working with tools like <ins><b>React</b></ins> , <ins><b>Next.js</b></ins> and <ins><b>TailwindCSS</b></ins> and constantly exploring new ways to improve and boost the developer experience and the web performance. <br/>
    my core values in coding are clean code, reusable architecture, and performance optimization. <br/>
    You'll find my journey through code here, from experiments to projects I'm truly proud of. Always learning and continuously improving through hands-on work and collaboration with fellow builders!
-   
-   <br/>
-   <br/>
-   If you’re working on something exciting or just want to connect, I’m always open to collaboration.  
-Let’s build something great together! 🚀
 
-    
-# :globe_with_meridians: socials
+<br/>
+<br/>
+
+
+![sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadranafe&show_icons=true&bg_color=222831&icon_color=50727B&title_color=9EC8B9&text_color=DFD0B8&border_radius=20&hide_border=true)
+
+
+# :bulb: HTML / CSS / JS projects : 
+1. [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
+2. [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
+3. [Stop Wacth](https://github.com/sadranafe/projects/tree/main/stopWatch)
+4. [copy to clipboard](https://github.com/sadranafe/projects/tree/main/clipboard) - [see the demo](https://flatuicolors.com/palette/defo).
+
+# :bulb: React.JS Projects : 
+1. [Quiz App](https://github.com/sadranafe/Quiz-app)
+2. [ukebay_online shop](https://github.com/sadranafe/ukebay/tree/main)
+
+    <br/>
+# 💬 Let's connect :
+I'm always open to new ideas, collaborations, or just a good dev chat!
+
 <div align='center'>
    <a href='www.linkedin.com/in/sadranafe' target="_blank"><img alt='inspire' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=inspire&logoColor=FFFFFF&labelColor=0965c2&color=0965c2'/></a>
    <a href='https://www.instagram.com/_sadra.nafe_/?r=nametag' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=e44061&color=e44061'/></a>
@@ -39,22 +57,12 @@ Let’s build something great together! 🚀
    <a href='https://dev.to/sadranafe' target="_blank"><img alt='dev.to' src='https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=FFFFFF&labelColor=32312d&color=32312d'/></a>
 </div>
 
-# 	:bulb: List of my JS Projects: 
-1) [To Do App](https://github.com/sadranafe/projects/tree/main/toDoApp)
-2) [Digital Clock](https://github.com/sadranafe/projects/tree/main/digitalClock)
-3) [Full page (HTML CSS JS)](https://github.com/sadranafe/projects/tree/main/full%20Page)
-4) [Stop Wacth](https://github.com/sadranafe/projects/tree/main/stopWatch)
-5) [copy to clipboard](https://github.com/sadranafe/projects/tree/main/clipboard) - you can [see the demo](https://flatuicolors.com/palette/defo).
-6) [Age Calculater](https://github.com/sadranafe/projects/tree/main/ageCalculator)
-7) More coming Soon ....
+<br/>
+<br/>
 
-
-# ⚛️ List of my ReactJS projects:
-1) [counter](https://github.com/sadranafe/couter_react)
-2) [Expense Tracker](https://github.com/sadranafe/expense-tracker)
-3) [Quiz App](https://github.com/sadranafe/Quiz-app)
-4) [ukebay_online shop](https://github.com/sadranafe/ukebay/tree/main)
-
+### final words 🚀 : 
+> Thanks for scrolling all the way!  
+Let’s connect, collaborate, and create something awesome. ✨
 
 <!---
 sadranafe/sadranafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
