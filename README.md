@@ -40,6 +40,7 @@
 3. [Stop Wacth](https://github.com/sadranafe/projects/tree/main/stopWatch)
 4. [copy to clipboard](https://github.com/sadranafe/projects/tree/main/clipboard) - [see the demo](https://flatuicolors.com/palette/defo).
 5. [fully responsive HTML / CSS of McDonald’s homepage](https://github.com/sadranafe/mcdonalds-redesign) - [see the demo](https://mcdonalds-redesign-sn.vercel.app)
+6. [OTP generator](https://github.com/sadranafe/JS_Projects/tree/main/otp-generator)
 
 # :bulb: React.JS Projects : 
 1. [Quiz App](https://github.com/sadranafe/Quiz-app)
