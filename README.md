@@ -39,6 +39,7 @@
 2. [copy to clipboard](https://github.com/sadranafe/projects/tree/main/clipboard) - [see the demo](https://flatuicolors.com/palette/defo).
 3. [OTP generator](https://github.com/sadranafe/JS_Projects/tree/main/otp-generator)
 4. [TODO List](https://github.com/sadranafe/JS_Projects/tree/main/TODO-list)
+5. [Products Page](https://github.com/sadranafe/JS_Projects/tree/main/product-page)
 
 # :bulb: React.JS Projects : 
 1. [Quiz App](https://github.com/sadranafe/Quiz-app)
