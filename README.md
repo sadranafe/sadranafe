@@ -47,6 +47,10 @@
 3. [Quiz App](https://github.com/sadranafe/Quiz-app)
 4. [ukebay_online shop](https://github.com/sadranafe/ukebay/tree/main)
 
+
+# :bulb: Next.JS Projects : 
+1. [Admin panel](https://github.com/sadranafe/sadranafe-bootcamp/tree/main/week21-adminpanel)
+
     <br/>
 # 💬 Let's connect :
 I'm always open to new ideas, collaborations, or just a good dev chat!
