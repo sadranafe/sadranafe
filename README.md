@@ -1,7 +1,7 @@
 # :mag_right: About Me : 
    🧠👨‍💻 Hello , I'm Sadra.<br/>
    🔎 a <b>Front-End developer</b> who absolutely loves diving into tricky problems and turning fresh ideas into nice web apps. <br/>
-   ( I'm currently focused on learning and working with **Next.js** and **SEO** )
+   ( I'm currently focused on learning and working with **Next.js** )
    <br/>
 
 ## Skills :
