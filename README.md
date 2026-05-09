@@ -50,6 +50,7 @@
 
 # :bulb: Next.JS Projects : 
 1. [Admin panel](https://github.com/sadranafe/sadranafe-bootcamp/tree/main/week21-adminpanel)
+2. [Tourino](https://github.com/sadranafe/tourino) 🔥⚡
 
     <br/>
 # 💬 Let's connect :
