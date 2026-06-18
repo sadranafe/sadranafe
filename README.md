@@ -19,7 +19,6 @@
 <a href='https://reactrouter.com' target="_blank"><img alt='ReactRouter' src='https://img.shields.io/badge/react_router-100000?style=for-the-badge&logo=ReactRouter&logoColor=ffffff&labelColor=cb4147&color=cb4147'/></a>
 <a href='https://redux.js.org' target="_blank"><img alt='redux' src='https://img.shields.io/badge/redux-100000?style=for-the-badge&logo=redux&logoColor=ffffff&labelColor=573d87&color=573d87'/></a>
 <a href='https://graphql.org' target="_blank"><img alt='graphql' src='https://img.shields.io/badge/graphql-100000?style=for-the-badge&logo=graphql&logoColor=ffffff&labelColor=e00296&color=e00296'/></a>
-<a href='https://developer.mozilla.org/en-US/docs/Glossary/SEO' target="_blank"><img alt='' src='https://img.shields.io/badge/seo-100000?style=for-the-badge&logo=&logoColor=ffffff&labelColor=555555&color=555555'/></a>
 <a href='https://figma.com' target="_blank"><img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=3DE48E&labelColor=000000&color=000000'/></a>
 
 <br/>
