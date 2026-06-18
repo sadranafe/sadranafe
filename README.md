@@ -13,10 +13,12 @@
 <a href='https://npmjs.com' target="_blank"><img alt='NPM' src='https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=NPM&logoColor=FFFFFF&labelColor=d43434&color=d43434'/></a>
 <a href='https://git-scm.com' target="_blank"><img alt='Git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=Git&logoColor=FFFFFF&labelColor=eb482f&color=eb482f'/></a>
 <a href='https://w3schools.com/javascript' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=f8dd22&labelColor=33322f&color=33322f'/></a>
+<a href='https://vite.dev' target="_blank"><img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=Vite&logoColor=ffce5f&labelColor=b83cf6&color=b83cf6'/></a>
 <a href='https://react.dev' target="_blank"><img alt='React' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=React&logoColor=78a9b6&labelColor=20232a&color=20232a'/></a>
 <a href='https://nextjs.org' target="_blank"><img alt='Next.js' src='https://img.shields.io/badge/next-100000?style=for-the-badge&logo=Next.js&logoColor=ffffff&labelColor=010000&color=010000'/></a>
-<a href='https://vite.dev' target="_blank"><img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=Vite&logoColor=ffce5f&labelColor=b83cf6&color=b83cf6'/></a>
-<a href='https://reactrouter.com' target="_blank"><img alt='ReactRouter' src='https://img.shields.io/badge/react_router-100000?style=for-the-badge&logo=ReactRouter&logoColor=ffffff&labelColor=cb4147&color=cb4147'/></a>
+<a href='https://axios.rest' target="_blank"><img alt='Axios' src='https://img.shields.io/badge/Axios-100000?style=for-the-badge&logo=Axios&logoColor=black&labelColor=white&color=white'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Swagger' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=Swagger&logoColor=FFFFFF&labelColor=4AC71C&color=4AC71C'/></a>
+<a href='https://tanstack.com/query/latest' target="_blank"><img alt='tanstack' src='https://img.shields.io/badge/react_query-100000?style=for-the-badge&logo=tanstack&logoColor=FFFFFF&labelColor=DE5E1E&color=DE5E1E'/></a>
 <a href='https://redux.js.org' target="_blank"><img alt='redux' src='https://img.shields.io/badge/redux-100000?style=for-the-badge&logo=redux&logoColor=ffffff&labelColor=573d87&color=573d87'/></a>
 <a href='https://graphql.org' target="_blank"><img alt='graphql' src='https://img.shields.io/badge/graphql-100000?style=for-the-badge&logo=graphql&logoColor=ffffff&labelColor=e00296&color=e00296'/></a>
 <a href='https://figma.com' target="_blank"><img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=3DE48E&labelColor=000000&color=000000'/></a>
