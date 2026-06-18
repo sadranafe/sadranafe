@@ -9,6 +9,7 @@
 <a href='https://www.w3schools.com/html/' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=e34f26&color=e34f26'/></a>
 <a href='https://www.w3schools.com/css/' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/Css3-100000?style=for-the-badge&logo=CSS&logoColor=FFFFFF&labelColor=1572b6&color=1572b6'/></a>
 <a href='https://tailwindcss.com/' target="_blank"><img alt='tailwindcss' src='https://img.shields.io/badge/tailwind Css-100000?style=for-the-badge&logo=tailwindcss&logoColor=20E1E1&labelColor=black&color=black'/></a>
+<a href='https://ui.shadcn.com/' target="_blank"><img alt='shadcnui' src='https://img.shields.io/badge/ShadcnUI-100000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://getbootstrap.com/' target="_blank"><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF&labelColor=563d7c&color=563d7c'/></a>
 <a href='https://npmjs.com' target="_blank"><img alt='NPM' src='https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=NPM&logoColor=FFFFFF&labelColor=d43434&color=d43434'/></a>
 <a href='https://git-scm.com' target="_blank"><img alt='Git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=Git&logoColor=FFFFFF&labelColor=eb482f&color=eb482f'/></a>
